@@ -20,9 +20,8 @@ Comparativa de generación de casos de prueba usando ChatGPT y Gemini.
 * **[Ver Metodología SIN Historia de Usuario (PDF)](./AI-Testing-Methodology/IA_Sin_Historia_Usuario.pdf)**
 
 ### 📊 Gestión de Pruebas (Qase)
-Uso de herramientas profesionales para la gestión del ciclo de vida de pruebas, creación de repositorios y ejecución de test runs.
-* [Ver Evidencia en Qase (PDF)](./Test-Management-Qase/evidencia-qase.pdf)
-Documentación de casos de prueba detallados para Instagram, incluyendo precondiciones, pasos y resultados esperados.
+Uso de herramientas profesionales para la gestión del ciclo de vida de pruebas.
+* **[Ver Evidencia en Qase (PDF)](./gestion-pruebas/evidencia_qase.pdf)**
 
 ---
 
