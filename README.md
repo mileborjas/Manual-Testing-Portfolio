@@ -1,15 +1,23 @@
-# E-commerce Testing Project 🛒
+# Manual Testing Portfolio 📋
 
-This project focuses on the end-to-end functional testing of an e-commerce platform, covering the critical user flows from login to checkout.
-
-### 📋 Project Scope
-- **Environment:** Web
-- **Main Flows:** User Registration, Product Search, Shopping Cart, and Checkout.
-- **Tools used:** Jira, Zephyr, Qase.
-
-### 📑 Documentation Included
-- [Test Cases](Test_Cases_Ecommerce.pdf)
-- [Bug Reports](Bug_Reports_Samples.pdf)
-- **AI-Assisted Testing:** Documentation on how I used AI to optimize test case writing.
+Este repositorio contiene la documentación detallada de mis proyectos de pruebas manuales, diseño de estrategias y gestión de defectos.
 
 ---
+
+## 📁 Proyectos y Evidencia Directa
+
+### 1. 🌐 Metaverse Testing (Spatial.io)
+Pruebas funcionales en entornos virtuales y validación de integración con Web3.
+* **[Ver Documento de Pruebas (PDF)](./Metaverse-Testing/Metaverse-Testing.pdf)**
+
+### 2. 🛒 E-commerce Functional Testing
+Ciclo completo de STLC, desde el diseño de casos de prueba hasta el reporte de bugs.
+* **[Ver Casos de Prueba (PDF)](./E-commerce-Project/IA_Con_Historia_Usuario.pdf)**
+
+### 3. 🤖 IA en Testing: Metodología
+Comparativa de generación de casos de prueba usando ChatGPT y Gemini.
+* **[Ver Metodología CON Historia de Usuario (PDF)](./AI-Testing-Methodology/IA_Con_Historia_Usuario.pdf)**
+* **[Ver Metodología SIN Historia de Usuario (PDF)](./AI-Testing-Methodology/IA_Sin_Historia_Usuario.pdf)**
+
+---
+*Herramientas: Jira, Zephyr, Qase, Postman, SQL.*
