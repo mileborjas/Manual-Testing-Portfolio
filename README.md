@@ -12,7 +12,7 @@ Pruebas funcionales en entornos virtuales y validación de integración con Web3
 
 ### 2. 🛒 E-commerce Functional Testing
 Ciclo completo de STLC, desde el diseño de casos de prueba hasta el reporte de bugs.
-* **[Ver Casos de Prueba (PDF)](./E-commerce-Project/IA_Con_Historia_Usuario.pdf)**
+* **[Ver Casos de Prueba y Reporte de Bugs (PDF)](./E-commerce-Project/Manual_Testing_Ecommerce_Project.pdf)**
 
 ### 3. 🤖 IA en Testing: Metodología
 Comparativa de generación de casos de prueba usando ChatGPT y Gemini.
